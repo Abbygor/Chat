@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
 This application shows a chat like WhatsApp
+
 In this application uses:
 - Firebase data base
 - Firebase auth library to login with Google account
@@ -11,3 +12,5 @@ In this application uses:
 - Get collections in firebase
 - Add items to collections in firebase
 - Query for get organized data from firebase ordered by date
+
+by: Luis Antonio Feregrino
